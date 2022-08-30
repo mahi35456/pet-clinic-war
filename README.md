@@ -1,6 +1,6 @@
 # Spring  test Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
-## Understanding the Spring Petclinic application with a few diagrams mahesh reedy unq
+## Understanding the Spring Petclinic application with a few diagrams  unq
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
 ## Running petclinic locally
